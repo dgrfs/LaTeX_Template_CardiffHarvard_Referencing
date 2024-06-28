@@ -1,0 +1,86 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{eberl_differentiation_2002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f344407a6ff8025e2cf19108bf35b3b3}{%
+           family={Eberl},
+           familyi={E\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fbe829e1f1f0a73664dedc1db08126a4}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Rosel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d49bb5393c039ea6291f1b9be71252c7}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Ewald},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ecde271b2b181d371a2f9e8d8c6ad9cd}{%
+           family={Jomaa},
+           familyi={J\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8395db65950eb073d11c98037e9198ef}
+      \strng{fullhash}{1fe6da674edad6fea915e99c5d762296}
+      \strng{bibnamehash}{1fe6da674edad6fea915e99c5d762296}
+      \strng{authorbibnamehash}{1fe6da674edad6fea915e99c5d762296}
+      \strng{authornamehash}{8395db65950eb073d11c98037e9198ef}
+      \strng{authorfullhash}{1fe6da674edad6fea915e99c5d762296}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00088749}
+      \field{journaltitle}{Cellular Immunology}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{1}
+      \field{shortjournal}{Cellular Immunology}
+      \field{title}{Differentiation of human γδ T cells towards distinct memory phenotypes}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{218}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0008-8749(02)00519-1
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008874902005191
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008874902005191
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

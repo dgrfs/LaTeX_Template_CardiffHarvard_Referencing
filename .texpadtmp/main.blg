@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '/Users/c23086802/Library/CloudStorage/OneDrive-CardiffUniversity/Progress_monitoring/LaTeX_Template_CardiffHarvard_Referencing/.texpadtmp/main.blg'
+[47] biber-darwin:340> INFO - === Fri Jun 28, 2024, 21:51:32
+[66] Biber.pm:419> INFO - Reading '/Users/c23086802/Library/CloudStorage/OneDrive-CardiffUniversity/Progress_monitoring/LaTeX_Template_CardiffHarvard_Referencing/.texpadtmp/main.bcf'
+[120] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[132] Biber.pm:4419> INFO - Processing section 0
+[141] Biber.pm:4610> INFO - Looking for bibtex file '/Users/c23086802/Library/CloudStorage/OneDrive-CardiffUniversity/Progress_monitoring/LaTeX_Template_CardiffHarvard_Referencing/sections/ref.bib' for section 0
+[151] bibtex.pm:1713> INFO - LaTeX decoding ...
+[158] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/c23086802/Library/CloudStorage/OneDrive-CardiffUniversity/Progress_monitoring/LaTeX_Template_CardiffHarvard_Referencing/sections/ref.bib'
+[194] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[194] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[194] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[194] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[203] bbl.pm:660> INFO - Writing '/Users/c23086802/Library/CloudStorage/OneDrive-CardiffUniversity/Progress_monitoring/LaTeX_Template_CardiffHarvard_Referencing/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[204] bbl.pm:763> INFO - Output to /Users/c23086802/Library/CloudStorage/OneDrive-CardiffUniversity/Progress_monitoring/LaTeX_Template_CardiffHarvard_Referencing/.texpadtmp/main.bbl
